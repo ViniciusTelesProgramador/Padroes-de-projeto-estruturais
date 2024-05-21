@@ -1,0 +1,12 @@
+Bridge
+• Renderização de Formas: Desenvolva um programa que possa renderizar
+diferentes formas geométricas, como círculos, quadrados e triângulos, em
+diferentes meios, como em uma janela gráfica, em uma imagem SVG ou em
+um console de texto. Utilize o padrão de design Bridge para separar as formas
+da lógica de renderização.
+
+• Controle Remoto de Dispositivos: Desenvolva um aplicativo de controle
+remoto que possa controlar diferentes dispositivos domésticos, como luzes,
+televisões e ar-condicionados, usando diferentes protocolos de comunicação,
+como Wi-Fi, Bluetooth e infravermelho. Utilize o padrão de design Bridge para
+separar a lógica de controle de dispositivos da lógica de comunicação.
